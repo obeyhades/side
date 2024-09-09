@@ -11,5 +11,5 @@ källa : https://phoenixnap.com/kb/mac-terminal-commands
 git init 
 git add . 
 git status
-git remote -v 
+git remote -
 
